@@ -1,2 +1,2 @@
 language: csharp
-solution: sources/EnterpriseLibrary.SemanticLogging.Mongo.sln
+solution: EnterpriseLibrary.SemanticLogging.Mongo.sln
